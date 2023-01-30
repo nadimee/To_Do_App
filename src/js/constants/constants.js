@@ -1,0 +1,7 @@
+
+const ADD_TASKS ='ADD_TASKS';
+export default ADD_TASKS;
+
+export  const FILTER_TASKS_DONE ='FILTER_TASKS_DONE';
+export  const FILTRED_TASKS_STILL ='FILTRED_TASKS_STILL';
+
