@@ -22,7 +22,7 @@ const mapDispatchToProps = (dispatch)=>{
 }
 
 const ListTask = (props) => {
-  const [backUstate,setBackUstate]= useState({tasks : props.tasks})
+  let [backUstate,setBackUstate]= useState({tasks : props.tasks})
 
 
 
